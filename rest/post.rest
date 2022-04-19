@@ -1,0 +1,12 @@
+POST http://localhost:3005/forms
+Content-Type: application/json
+
+{
+    "firstName": "carl",
+    "surname": "tomas",
+    "email": "uuu@gmail.com",
+    "date": "whenever",
+    "time":"kiss",
+    "contactNumber":1234,
+    "place":"zoom"
+}
